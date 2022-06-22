@@ -1,0 +1,85 @@
+{
+    "news": [
+      {
+        "source": "Championat.com",
+        "title": "«Спартак» не будет бойкотировать матч за Суперкубок России с «Зенитом» - Чемпионат",
+        "description": "«Спартак» на официальном сайте выступил с заявлением, в котором отметил, что не будет бойкотировать матч за Суперкубок России с «Зенитом» в Санкт-Петербурге.",
+        "url": "https://www.championat.com/football/news-4733627-spartak-ne-budet-bojkotirovat-match-za-superkubok-rossii-s-zenitom.html",
+        "urlToImage": "https://img.championat.com/news2/social/8/04/4733627.jpg",
+        "publishedAt": "2022-06-22"
+      },
+      {
+        "source": "Sports.ru",
+        "title": "Батыргазиев о шоу-поединке с Загитовой: «Поработаем красиво и с пользой для нас обоих – это все-таки не битва - Sports.ru",
+        "description": "Олимпийский чемпион по боксу Альберт Батыргазиев высказался об участии в боксерском поединке против олимпийской чемпионки по фигурному катанию Алины Загитовой.",
+        "url": "https://www.sports.ru/figure-skating/1109912684-batyrgaziev-o-shou-poedinke-s-zagitovoj-porabotaem-krasivo-i-s-polzoj-.html",
+        "urlToImage": "https://www.sports.ru/dynamic_images/news/110/991/268/4/share/deeca3.jpg",
+        "publishedAt": "2022-06-22"
+      },
+      {
+        "source": "Dtf.ru",
+        "title": "«Это не так много, но патч всё равно помогает» — Valve после «мирного протеста» выпустила апдейт для Team Fortress 2 — Игры на DTF - DTF",
+        "description": "Теперь игроки могут быстрее кикать ботов, а поменять ник и притвориться другим человеком в середине матча нельзя.",
+        "url": "https://dtf.ru/games/1240975-eto-ne-tak-mnogo-no-patch-vse-ravno-pomogaet-valve-posle-mirnogo-protesta-vypustila-apdeyt-dlya-team-fortress-2",
+        "urlToImage": "https://dtf.ru/cover/fb/c/1240975/1655895400/cover.jpg",
+        "publishedAt": "2022-06-22"
+      },
+      {
+        "source": "161.ru",
+        "title": "Как два беспилотника атаковали нефтезавод в Ростовской области: хронология и видео - Новости Ростова-на-Дону – 161.ru",
+        "description": "На месте работает комиссия Воздушно-космических сил",
+        "url": "https://161.ru/text/incidents/2022/06/22/71429549/",
+        "urlToImage": "https://static.ngs.ru/news/2015/social/df905677a8a4fba847f762b654df9a.png",
+        "publishedAt": "2022-06-22"
+      },
+      {
+        "source": "Google News",
+        "title": "Самолет Ан-30 разбился в Якутии при заходе на посадку - Интерфакс",
+        "description": null,
+        "url": "https://news.google.com/__i/rss/rd/articles/CBMiJWh0dHBzOi8vd3d3LmludGVyZmF4LnJ1L3J1c3NpYS84NDc0MDbSAQA?oc=5",
+        "urlToImage": null,
+        "publishedAt": "2022-06-22"
+      },
+      {
+        "source": "Kommersant.ru",
+        "title": "Дорогой длинною - Коммерсантъ",
+        "description": "10 вопросов о будущем Украины в ЕС",
+        "url": "https://www.kommersant.ru/doc/5423539",
+        "urlToImage": "https://im.kommersant.ru/SocialPics/5423539_26_2233127_1957504051",
+        "publishedAt": "2022-06-22"
+      },
+      {
+        "source": "Google News",
+        "title": "Россия ударила ракетами по Николаеву (фото) - УНИАН",
+        "description": null,
+        "url": "https://news.google.com/__i/rss/rd/articles/CBMieGh0dHBzOi8vd3d3LnVuaWFuLm5ldC93YXIvcm9zc2l5YS11ZGFyaWxhLXJha2V0YW1pLXBvLW5pa29sYWV2dS1mb3RvLW5vdm9zdGktdnRvcnpoZW5peWEtcm9zc2lpLW5hLXVrcmFpbnUtMTE4NzUxMTkuaHRtbNIBAA?oc=5",
+        "urlToImage": null,
+        "publishedAt": "2022-06-22"
+      },
+      {
+        "source": "Sport-express.ru",
+        "title": "Текбол с чемпионами: баттл «СЭ» vs «Зенит» - Спорт-Экспресс",
+        "description": "Репортаж о матче, в котором наши сотрудники Чурилин и Тарутин навязали борьбу Барриосу и Мостовому.",
+        "url": "https://www.sport-express.ru/football/rfpl/reviews/futbolisty-zenita-barrios-i-mostovoy-sygrali-v-tekbol-s-zhurnalistami-sport-ekspressa-video-i-intervyu-1941373/",
+        "urlToImage": "https://ss.sport-express.ru/userfiles/materials/179/1793761/large.jpg",
+        "publishedAt": "2022-06-22"
+      },
+      {
+        "source": "Dtf.ru",
+        "title": "Почему игры так часто переносят в этом году — отвечают разработчики — Индустрия на DTF - DTF",
+        "description": "Дело не только в пандемии.",
+        "url": "https://dtf.ru/gameindustry/1239979-pochemu-igry-tak-chasto-perenosyat-v-etom-godu-otvechayut-razrabotchiki",
+        "urlToImage": "https://dtf.ru/cover/fb/c/1239979/1655885616/cover.jpg",
+        "publishedAt": "2022-06-22"
+      },
+      {
+        "source": "Www.e1.ru",
+        "title": "Умер Нарцисс Пьер — 22 июня 2022 | e1.ru - новости Екатеринбурга - Новости Екатеринбурга – e1.ru",
+        "description": "Ему было 45 лет",
+        "url": "https://www.e1.ru/text/culture/2022/06/22/71429180/",
+        "urlToImage": "https://static.ngs.ru/news/2015/social/fb738b81c49512a77d82faf86d0da4.png",
+        "publishedAt": "2022-06-22"
+      }
+    ]
+  
+}
